@@ -1,0 +1,15 @@
+{
+  "name": "tic-tac-toe",
+  "version": "1.0.0",
+  "description": "Improving the current implementation of tic-tac-toe",
+  "main": "game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jon Sanders",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^4.0.1",
+    "nyc": "^11.3.0"
+  }
+}
