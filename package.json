@@ -4,7 +4,7 @@
   "description": "Improving the current implementation of tic-tac-toe",
   "main": "game.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "nyc mocha"
   },
   "author": "Jon Sanders",
   "license": "ISC",
